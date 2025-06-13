@@ -25,7 +25,7 @@ A code editor code editor where users can seamlessly code together.
 
 ## 🚀 Live Preview
 
-You can view the live preview of the project [here]().
+You can view the live preview of the project [here](https://code-sangam-3ibd.vercel.app/).
 
 ## ⚙️ Installation
 
