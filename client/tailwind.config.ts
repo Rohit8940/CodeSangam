@@ -7,7 +7,7 @@ export default {
                 dark: "#1E2B45",
                 darkHover: "#3D404A",
                 light: "#f5f5f5",
-                primary: "#10B981",
+                primary: "#00CFFF",
                 danger: "#ef4444",
             },
             fontFamily: {
